@@ -1,2 +1,7 @@
 # pa_react
-reactやってまーす
+
+react やってまーす
+
+## author
+
+satake
